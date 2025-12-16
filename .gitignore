@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.Python
+
+# dotenv / secrets
+.env
+*.env
+
+# Packaging / install artifacts
+build/
+dist/
+*.egg-info/
+
+# Virtual environment / pipenv
+pip-selfcheck.json
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS
+.DS_Store
+
+# Audio / images / outputs your scripts create
+output_audio/
+oracle_symbols/
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
