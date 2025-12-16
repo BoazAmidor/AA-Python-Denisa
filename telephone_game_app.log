@@ -1,0 +1,27 @@
+2025-11-25 12:15:16,135 - INFO - Starting new game with prompt: 'professor frustrated with computer malefactions she has no control of. professor is a woman with big...'
+2025-11-25 12:15:16,136 - INFO - Created game log at: telephone_game/game_log_1764065716.txt
+2025-11-25 12:15:16,137 - INFO - Starting cycle 1 of 3
+2025-11-25 12:15:16,165 - INFO - Generating image from prompt: 'professor frustrated with computer malefactions she has no control of. professor is a woman with big...'
+2025-11-25 12:15:32,491 - INFO - HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+2025-11-25 12:15:32,501 - INFO - Image generated successfully: https://oaidalleapiprodscus.blob.core.windows.net/private/org-FJcKsL52eazSXxW7XwJDpHVM/user-okniKxfFxBYLbCB7TviiGR29/img-YnMUcJfdBPqV93cUEqYFzF3c.png?st=2025-11-25T09%3A15%3A32Z&se=2025-11-25T11%3A15%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-11-25T10%3A15%3A32Z&ske=2025-11-26T10%3A15%3A32Z&sks=b&skv=2024-08-04&sig=/IKunK5VVKJBZ1lZ/0dpQyuMpdvQtr1t/YInievP%2BJ8%3D
+2025-11-25 12:15:39,742 - INFO - Image saved to telephone_game/image_1764065739.png
+2025-11-25 12:15:39,765 - INFO - Analyzing image with GPT-4o vision...
+2025-11-25 12:15:44,178 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 12:15:44,192 - INFO - Image analyzed successfully: 'The image shows a person with a serious, focused expression, reaching out towards the camera with on...'
+2025-11-25 12:15:45,198 - INFO - Starting cycle 2 of 3
+2025-11-25 12:15:45,233 - INFO - Generating image from prompt: 'The image shows a person with a serious, focused expression, reaching out towards the camera with on...'
+2025-11-25 12:15:59,009 - INFO - HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+2025-11-25 12:15:59,011 - INFO - Image generated successfully: https://oaidalleapiprodscus.blob.core.windows.net/private/org-FJcKsL52eazSXxW7XwJDpHVM/user-okniKxfFxBYLbCB7TviiGR29/img-L1XBvEmcXtPOR4K2dBzTo20F.png?st=2025-11-25T09%3A15%3A58Z&se=2025-11-25T11%3A15%3A58Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=9346e9b9-5d29-4d37-a0a9-c6f95f09f79d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-11-25T10%3A15%3A58Z&ske=2025-11-26T10%3A15%3A58Z&sks=b&skv=2024-08-04&sig=jgaxGv9Ia%2BO1sdI07gPr6x9IQQlxbkJtlCHsCKKGtm4%3D
+2025-11-25 12:16:09,372 - INFO - Image saved to telephone_game/image_1764065769.png
+2025-11-25 12:16:09,393 - INFO - Analyzing image with GPT-4o vision...
+2025-11-25 12:16:13,384 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 12:16:13,385 - INFO - Image analyzed successfully: 'The image shows a person with shoulder-length light brown hair and glasses, gazing directly at the c...'
+2025-11-25 12:16:14,391 - INFO - Starting cycle 3 of 3
+2025-11-25 12:16:14,443 - INFO - Generating image from prompt: 'The image shows a person with shoulder-length light brown hair and glasses, gazing directly at the c...'
+2025-11-25 12:16:28,670 - INFO - HTTP Request: POST https://api.openai.com/v1/images/generations "HTTP/1.1 200 OK"
+2025-11-25 12:16:28,678 - INFO - Image generated successfully: https://oaidalleapiprodscus.blob.core.windows.net/private/org-FJcKsL52eazSXxW7XwJDpHVM/user-okniKxfFxBYLbCB7TviiGR29/img-wwYvzLtTUcPpA75Rc41ddYF6.png?st=2025-11-25T09%3A16%3A28Z&se=2025-11-25T11%3A16%3A28Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-11-25T10%3A16%3A28Z&ske=2025-11-26T10%3A16%3A28Z&sks=b&skv=2024-08-04&sig=eMKj46joEmQspjz%2BmsXJQq%2B8QSVnuULcGDnv5tCWFC0%3D
+2025-11-25 12:16:39,296 - INFO - Image saved to telephone_game/image_1764065799.png
+2025-11-25 12:16:39,379 - INFO - Analyzing image with GPT-4o vision...
+2025-11-25 12:16:47,796 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-11-25 12:16:47,806 - INFO - Image analyzed successfully: 'The image shows a person with shoulder-length, light brown hair that transitions into a lighter shad...'
+2025-11-25 12:16:47,813 - INFO - Game completed successfully
